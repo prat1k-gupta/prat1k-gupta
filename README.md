@@ -13,7 +13,7 @@ I'm Pratik Gupta and I'm student at **Maharaja Agrasen Institute of Technology**
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=prat1k-gupta&repo=C-codes&theme=radical)](https://github.com/prat1k-gupta/C-codes)
 
-[![Pratik's GitHub stats](https://github-readme-stats.vercel.app/api?username=prat1k-gupta&show_icons=true&theme=radical )]
+[![Pratik's GitHub stats](https://github-readme-stats.vercel.app/api?username=prat1k-gupta&show_icons=true&theme=radical )](https://github.com/prat1k-gupta)
 
 
 <!---
